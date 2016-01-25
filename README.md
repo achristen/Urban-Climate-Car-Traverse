@@ -2,7 +2,7 @@
 
 ## Description
 
-A LabView-based
+A labview-based software to run UBC's truck-mounted system that measures temperature and carbon dioxide as the truck traverses a city along with GPS information. This system is used in <a href="http://ibis.geog.ubc.ca/courses/geob401/">UBC's GEOB 401 "Urban Meteorology"</a> course.
 
 ## Content
 

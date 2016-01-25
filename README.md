@@ -61,7 +61,6 @@ This sub-vi is used to read the serial data in form of a text-string from the CO
 #### teaching_extract_serial.vi
 
 This sub-vi is used to parse the logger data from the Campbell Scientific 21X logger into fields. 
-<<<<<<< Updated upstream
 
 #### writespreadsheetstring.vi
 
@@ -90,3 +89,9 @@ This directory contains the logger program for the Campbell Scientific 21X data 
 ### Directory "Documentation"
 
 This directory contains the operating instructions (for students) of the entire system in form of a word file.
+
+### Data from Vancouver
+
+![](Image-Data-Visualization.png.jpg)
+
+Example datasets from Vancouver can be found on the <a href="http://ibis.geog.ubc.ca/courses/geob401/data/">GEOB 401 Car Traverse data website</a>.

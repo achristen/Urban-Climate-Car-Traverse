@@ -2,13 +2,41 @@
 
 ## Description
 
-A labview-based software to run UBC's truck-mounted system that measures temperature and carbon dioxide as the truck traverses a city along with GPS information. This system is used in <a href="http://ibis.geog.ubc.ca/courses/geob401/">UBC's GEOB 401 "Urban Meteorology"</a> course.
+A labview-based software to run UBC's truck-mounted system. This system is used to measure temperature and carbon dioxide as the truck traverses along with GPS information. All data are written into a single text file. This system is used in <a href="http://ibis.geog.ubc.ca/courses/geob401/">UBC's GEOB 401 "Urban Meteorology"</a> course.
 
 ![](Image-System-Photo.jpg)
 
-## Content
+The hardware of the system contains five different components:
 
-### Directory "Source"
+![](Image-System-Components.gif)
+
+### Sensor Head
+
+For the traverse exercise we operate a thermometer (copper-constantan thermocouple) and a carbon-dioxide sensor (Licor LI 820, measures carbon dioxide). The thermocouple and the inlet to the gas analyzer are located on the roof (driver-side) in a PVC tube to protect them. The tube is further surrounded by styrofoam insulation and covered by highly- reflective tape. To maintain a constant flow of air through the tube, the tube is ventilated by an DC blower-fan.
+
+![](Image-Fan.gif)
+
+### Power Box 
+
+![](Image-Fan.gif)
+
+This box is located on the back seat. It distributes power from the car battery to all other components (i.e. laptop, GPS and logger box). A number of fuses protect the different circuits of the system. 
+
+### GPS 
+
+This is a common hand-held GPS (Garmin GPS 76) that is programmed to stream location, speed and direction directly to the laptop. It comes with an external antenna which is located on the roof for best reception of satellite signals.
+
+### Laptop
+
+A PC with LabView that collects data from the logger and GPS and displays online graphs of both sensors along with the GPS data. The source files for this code are licated in the directory "Source"
+
+### CO2 analyzer and logger box 
+
+This box is in the canopy of the truck and contains the gas analyzer for CO2 and a programmable data logger (Campbell Scientific 21X) that measures the analog signals from the connected thermocouple and the analyzer and streams digital data to the laptop in the cabin. 
+
+![](Image-Analyzer.jpg)
+
+## Directory "Source"
 
 The subdirectory "Source" contains all LabView VIs to build and run the application.
 

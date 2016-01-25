@@ -92,6 +92,6 @@ This directory contains the operating instructions (for students) of the entire 
 
 ### Data from Vancouver
 
-![](Image-Data-Visualization.png.jpg)
+![](Image-Data-Visualization.png)
 
 Example datasets from Vancouver can be found on the <a href="http://ibis.geog.ubc.ca/courses/geob401/data/">GEOB 401 Car Traverse data website</a>.

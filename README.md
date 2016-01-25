@@ -8,17 +8,17 @@ A labview-based software to run UBC's truck-mounted system. This system is used 
 
 The hardware of the system contains five different components:
 
-![](Image-System-Components.gif)
+![](Image-System-Components.jpg)
 
 ### Sensor Head
 
 For the traverse exercise we operate a thermometer (copper-constantan thermocouple) and a carbon-dioxide sensor (Licor LI 820, measures carbon dioxide). The thermocouple and the inlet to the gas analyzer are located on the roof (driver-side) in a PVC tube to protect them. The tube is further surrounded by styrofoam insulation and covered by highly- reflective tape. To maintain a constant flow of air through the tube, the tube is ventilated by an DC blower-fan.
 
-![](Image-Fan.gif)
+![](Image-Sensor.png)
 
 ### Power Box 
 
-![](Image-Fan.gif)
+![](Image-Power-Pox.jpg)
 
 This box is located on the back seat. It distributes power from the car battery to all other components (i.e. laptop, GPS and logger box). A number of fuses protect the different circuits of the system. 
 

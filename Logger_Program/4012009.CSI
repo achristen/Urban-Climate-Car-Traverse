@@ -1,0 +1,95 @@
+;{21X}
+*Table 1 Program
+  01: 1.0000    Execution Interval (seconds)
+
+1:  Batt Voltage (P10)
+ 1: 4        Loc [ BatVoltag ]
+
+2:  Panel Temperature (P17)
+ 1: 3        Loc [ PanelT    ]
+
+3:  Thermocouple Temp (DIFF) (P14)
+ 1: 1        Reps
+ 2: 1        5 mV Slow Range
+ 3: 1        DIFF Channel
+ 4: 1        Type T (Copper-Constantan)
+ 5: 3        Ref Temp (Deg. C) Loc [ PanelT    ]
+ 6: 1        Loc [ Theromoc  ]
+ 7: 1        Multiplier
+ 8: 0        Offset
+
+4:  Volt (Diff) (P2)
+ 1: 1        Reps
+ 2: 5        5000 mV Slow Range
+ 3: 2        DIFF Channel
+ 4: 2        Loc [ CO2       ]
+ 5: .7587    Multiplier
+ 6: -65.338  Offset
+
+5:  Do (P86)
+ 1: 10       Set Output Flag High
+
+6:  Set Active Storage Area (P80)^20711
+ 1: 1        Final Storage
+ 2: 401      Array ID
+
+7:  Average (P71)^22505
+ 1: 1        Reps
+ 2: 1        Loc [ Theromoc  ]
+
+8:  Average (P71)^5129
+ 1: 1        Reps
+ 2: 2        Loc [ CO2       ]
+
+9:  Serial Out (P96)
+ 1: 12       Printer ASCII/9600 Baud
+
+*Table 2 Program
+  01: 0.0000    Execution Interval (seconds)
+
+*Table 3 Subroutines
+
+End Program
+
+
+
+
+-Input Locations-
+1 Theromoc  1 1 1
+2 CO2       1 1 1
+3 PanelT    1 1 1
+4 BatVoltag 1 0 1
+5 _________ 0 0 0
+6 _________ 0 0 0
+7 _________ 0 0 0
+8 _________ 0 0 0
+9 _________ 0 0 0
+10 _________ 0 0 0
+11 _________ 0 0 0
+12 _________ 0 0 0
+13 _________ 0 0 0
+14 _________ 0 0 0
+15 _________ 0 0 0
+16 _________ 0 0 0
+17 _________ 0 0 0
+18 _________ 0 0 0
+19 _________ 0 0 0
+20 _________ 0 0 0
+21 _________ 0 0 0
+22 _________ 0 0 0
+23 _________ 0 0 0
+24 _________ 0 0 0
+25 _________ 0 0 0
+26 _________ 0 0 0
+27 _________ 0 0 0
+28 _________ 0 0 0
+-Program Security-
+0000
+0000
+0000
+-DLD File Labels-
+0
+-Final Storage Labels-
+0,401,20711
+1,Theromoc_AVG~1,22505
+2,CO2_AVG~2,5129

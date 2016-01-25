@@ -1,0 +1,40 @@
+Program Trace Information File for:  4012009.csi
+Date: 2/11/2009
+Time: 15:15:33
+
+T = Program Table Number
+N = Sequential Program Instruction Location Number
+Instruction = Instruction Number and Name
+
+Inst ExTm = Individual Instruction Execution Time
+Block ExTm = Cumulative Execution Time for program block,
+             i.e., subroutine
+Prog ExTm = Cumulative Total Program Execution Time
+
+                                                          Output Flag High
+                                   Inst  Block   Prog     Inst  Block   Prog
+                                   ExTm   ExTm   ExTm     ExTm   ExTm   ExTm
+T|N|Instruction                   (msec) (msec) (msec)   (msec) (msec) (msec)
+---------------                   ------ ------ ------   ------ ------ ------
+1|1|10 Batt Voltage                 7.6    7.6    7.6      7.6    7.6    7.6
+1|2|17 Panel Temperature           14.0   21.6   21.6     14.0   21.6   21.6
+1|3|14 Thermocouple Temp (DIFF)    81.9  103.5  103.5     81.9  103.5  103.5
+1|4|2 Volt (Diff)                  14.7  118.2  118.2     14.7  118.2  118.2
+1|5|86 Do                           0.1  118.3  118.3      0.1  118.3  118.3
+ Output Flag Set @ 15 for Array 401
+1|6|80 Set Active Storage Area      0.2  118.5  118.5      0.2  118.5  118.5
+1|7|71 Average                      1.4  119.9  119.9      5.1  123.6  123.6
+ Output Data 1 Values
+1|8|71 Average                      1.4  121.3  121.3      5.1  128.7  128.7
+ Output Data 1 Values
+1|9|96 Serial Out                   2.0  123.3  123.3      2.0  130.7  130.7
+
+Program Table 1 Execution Interval    1.000 Seconds
+
+Table 1 Estimated Total Program Execution Time in msec  123.3 w/Output  130.7
+
+Table 1 Estimated Total Final Storage Locations used per day 259200
+
+
+
+Estimated Total Final Storage Locations used per day 259200

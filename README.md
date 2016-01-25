@@ -42,16 +42,15 @@ this is a generic vi that appends a spreadsheet line (string) to an existing fil
 #### GPSmap76.vi
 
 This sub-vi parses one line of a string from the Garmin GPS 76 module into its components (Time, Longitude, Latitude, Altitude, Horizontal Position Error, Status, Speed, Direction). <a href="images/GPS_Signal.png">Here is a description of the raw GPS signal string</a> from the Garmin GPS 76 model.
-=======
 
 #### writespreadsheetstring.vi
 
 this is a generic vi that appends a spreadsheet line (string) to an existing file. 
 
 #### GPSmap76.vi
->>>>>>> Stashed changes
 
 This sub-vi parses one line of a string from the Garmin GPS 76 module into its components (Time, Longitude, Latitude, Altitude, Horizontal Position Error, Status, Speed, Direction). <a href="images/GPS_Signal.png">Here is a description of the raw GPS signal string</a> from the Garmin GPS 76 model.
+
 #### uv_md.vi
 
 This sub-vi translates northing and easting from the GPS into direction and speed. Used during parsing in GPSmap76.vi to display heading and speed on the top level "traverse.vi".

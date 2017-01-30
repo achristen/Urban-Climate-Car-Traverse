@@ -1,64 +1,71 @@
-Press enter when ready to start calibration at UBC lot
-Press enter to finish calibration at UBC lot
+Press enter when ready to start calibration at UBC
+Press enter to finish calibration at UBC
 West Mall - NW Marine (lights / turn right) 
 Chancellor Blvd. - Wesbrook Mall (stop sign) 
 Chancellor Blvd. - traffic lights at school entrance   
 Chancellor Blvd. - Blanca (lights) 
-4th - NW Marine Drive (lights at base of hill) 
-4th - Alma (lights) 
-4th - MacDonald (lights) 
-4th - Burrard (lights, turn left)                
+W 4th Ave. - NW Marine Drive (lights at base of hill) 
+W 4th Ave. - Alma (lights) 
+W 4th Ave. - MacDonald (lights) 
+W 4th Ave. - Burrard (lights, turn left)                
 Cornwall - S. end Burrard Bridge (lights at brewery) 
-Burrard - Pacific (take right ramp to Pacific, lights, 1st left on Hornby) 
+Burrard - Pacific (take right ramp to Pacific, lights, 1st left, Hornby) 
 Hornby - Davie (lights) 
 Hornby - Robson (lights, turn left) 
-Robson - Jervis 
+Robson - Jervis (lights)
 Robson - Denman (lights) 
 Robson - Lagoon Drive (keep lake immediately on your right all around) 
 W-end of Lost Lagoon (first view as you come through trees) 
-Causeway/Georgia-– Chilco 
+Causeway/Georgia - Chilco 
 Georgia - Jervis (lights)  
 Georgia - Howe (lights, turn right) 
 Howe - Nelson (lights) 
 N. end Granville Bridge 
-Granville - 6th Ave. 
-Granville - Broadway (lights, turn left) 
-Broadway - Oak (lights, turn right) 
-Oak - 15th (lights) 
-Oak - King Edward (lights) 
-Oak - 33rd (lights) 
-Oak - 41st (lights) 
-Oak - 49th (lights) 
-Oak - 57th (lights) 
-Oak - 72nd 
-S. end Oak Street Bridge (passing 1st off ramp) 
-Hwy 99 - Cambie (take off ramp bear right onto Shell) 
-Shell - Westminster (turn left) 
-Westminster – Sidaway (1st after overpass, poorly lit) – turn right 
-Sidaway – Blundell 
-Sidaway – entrance to Mylora Golf Course 
-Sidaway – Steveston (turn right, then right again onto 99 ramp) 
-Hwy 99 – Blundell 
-Hwy 99 – Westminster 
-Hwy 99 – Cambie 
-Hwy 99 at S. end Oak St. Bridge 
-N. end Oak Street Bridge 
-Oak – 57th Ave. (lights) 
-Oak – 49th Ave. (lights) 
-Oak – 41st Ave. (lights, turn left) 
-41st – Granville (lights) 
-41st – West Boulevard (Arbutus) (lights) 
-41st – MacKenzie 
-41st – Dunbar (lights, turn right) 
-Dunbar – 33rd Ave. 
-Dunbar – 25th Ave. (lights) 
-Dunbar – 16th Ave. (lights, turn left) 
-16th Ave. – Camosun St. 
-16th Ave. – Blanca St. (lights, turn right) 
-Blanca St. – W. 10th Ave. (lights) 
-Blanca St. – W. 4th Ave. (lights, turn left) 
-Chancellor Blvd. – lights at entrance to school 
-Chancellor Blvd. – Acadia Rd. (1st road of UEL) 
-NW Marine Drive – West Mall (lights, turn left) 
-UBC lot – note times of arrival and when stop logging after ~ 5 min 
-Weather and state of road at finish: 
+Granville - W Broadway
+Granville - Angus Dr. (turn right)
+Angus Dr. - W King Edward Ave.
+Angus Dr. - W 33rd Ave. (stop sign)
+Angus Dr. - W 41th Ave. (stop sign)
+Angus Dr. - W 49th Ave. (stop sign, turn left)
+W 49th Ave. - Cartier St. (1st after Granville, turn right onto Cartier)
+Cartier St. - W 50th Ave. (turn left into 50th)
+W 50th Ave. - Selkirk St. (turn right into Selkirk)
+Selkirk St. - W. 54th Ave. (stop sign, turn left into 54th)
+W. 54th Ave. - Oak St. (stop sign, turn right into Oak)
+Oak St. - Park Dr. (light)
+Oak St. - 70th 
+S. end Oak Street Bridge (passing 1st off ramp 39A) 
+Hwy 99 - Take off ramp 38 (lights, turn left onto Shell) 
+Shell Rd. - Cambie Rd. (turn right onto Cambie)
+Cambie Rd. - No 5 Rd. (turn left onto No 5)
+No 5 Rd. - Vulcan Way (turn right onto Vulcan)
+Vulcan Way - No 6 Rd. (stop sign, turn left, NOW DRIVE CAREFULLY!)
+River Rd. - No 7 Rd. (before 'truck 30 sign', turn right)
+No 7 Rd. - Cambie Rd.
+No 7 Rd. - Overpass over Hwy 91
+No 7 Rd. - Westmister Hwy (stop sign, turn right onto Westminster)
+Westmister Hwy - Knight St.  (turn right onto Kight, follow 'Vancouver')
+Knight St. - S. End of Knight Bridge
+Knight St. Bridge - Mitchell Island
+Knight St. - E 57th Ave. (lights)
+Knight St. - E 51th Ave. (turn left onto 51th)
+E 51th Ave. - Prince Albert St. (turn right onto P. Albert)
+Prince Albert St. - E 49th Ave. (stop sign)
+Prince Albert St. - E 41th Ave. (turn left onto 41th)
+E 41th Ave. - Main St. (lights)
+W 41th Ave. - Cambie St. (lights)
+W 41th Ave. - Oak St. (lights)
+W 41th Ave. - Angus Dr. (lights)
+W 41th Ave. - West Blvd. (lights and railway crossing) 
+W 41th Ave. – MacKenzie St.  (lights)
+W 41th Ave. – Dunbar St. (lights) 
+W 41th Ave. merge into SW Marine Dr. (lights) 
+SW Marine Dr. - W 16th Ave. (lights) 
+NW Marine Dr. - University Blvd. (3-way stop) 
+Press enter when ready to start 2nd calibration at UBC
+Press enter to finish calibration 2nd at UBC
+Thank you. You have finished the traverse.
+Thank you. You have finished the traverse.
+Thank you. You have finished the traverse.
+Thank you. You have finished the traverse.
+Thank you. You have finished the traverse.
